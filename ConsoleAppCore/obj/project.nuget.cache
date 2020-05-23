@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Siip+vXrt597JM37rk4V3d81kr4iUOFZZkoSH4TWjTNWvFs7ziQYARKKtq9vkpbbmy3Q50fHNPMd563HYtOBKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vsdiagtester\\source\\repos\\ConsoleAppCore\\ConsoleAppCore\\ConsoleAppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsdiagtester\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

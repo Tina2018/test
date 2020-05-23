@@ -1,0 +1,17 @@
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\ConsoleAppCore.exe
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\ConsoleAppCore.deps.json
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\ConsoleAppCore.runtimeconfig.json
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\ConsoleAppCore.runtimeconfig.dev.json
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\ConsoleAppCore.dll
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\ConsoleAppCore.pdb
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\obj\Release\netcoreapp3.1\ConsoleAppCore.AssemblyInfoInputs.cache
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\obj\Release\netcoreapp3.1\ConsoleAppCore.AssemblyInfo.cs
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\obj\Release\netcoreapp3.1\ConsoleAppCore.csproj.CoreCompileInputs.cache
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\obj\Release\netcoreapp3.1\ConsoleAppCore.csproj.CopyComplete
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\obj\Release\netcoreapp3.1\ConsoleAppCore.dll
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\obj\Release\netcoreapp3.1\ConsoleAppCore.pdb
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\obj\Release\netcoreapp3.1\ConsoleAppCore.genruntimeconfig.cache
+C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\obj\Release\netcoreapp3.1\ConsoleAppCore.csprojAssemblyReference.cache

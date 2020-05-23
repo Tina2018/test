@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Debug\netcoreapp3.1\</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>C:\Users\vsdiagtester\source\repos\ConsoleAppCore\ConsoleAppCore\bin\Release\netcoreapp3.1\</OutputPath>
+  </PropertyGroup>
+
+</Project>
